@@ -1,0 +1,26 @@
+body {
+    background-color: gray;
+}
+h1 {
+    text-align: center;
+}
+.todo {
+    display: flex;
+    flex-direction: column;
+}
+.area{
+    border: 1px solid black;
+}
+.botones {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.par {
+    width: 50%;
+    border: 1px solid black;
+}
+.impar {
+    width: 50%;
+    border: 1px solid black;
+}
